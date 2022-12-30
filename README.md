@@ -5,3 +5,5 @@ The fastest and most advanced token generator has finally been posted here on Gi
 You may created up to **1,000** tokens per minute with this generator.
 
 ❗️ **I will be releasing it once this repo hits 30 stars!**
+
+## (Token Generator w/ AI Solver!)[https://github.com/eric48906/Discord-Token-Generator-2022]
