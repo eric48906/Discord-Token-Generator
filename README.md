@@ -4,4 +4,4 @@ The fastest and most advanced token generator has finally been posted here on Gi
 
 You may create up to **1,000** tokens per minute with this generator.
 
-❗️ **I will be releasing it once this repo hits 133 stars!**
+❗️ **I will be releasing it once this repo hits 134 stars!**
