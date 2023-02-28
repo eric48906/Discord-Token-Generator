@@ -1,6 +1,8 @@
-# ✨ 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐓𝐨𝐤𝐞𝐧 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐨𝐫 ✨
+# ✨ Discord Token Generator ✨
 
-The fastest and most advanced token generator has finally been posted here on GitHub. This generator uses TLS and more to bypass Discord and create unlocked accounts even without email verification. However, there are both options for email and phone verification within the generator. 
+`📝 How it works:`<br>
+The generator generates unlocked Discord tokens, and has an optional option to email verify them (free of cost) using a private GMail API. Of course, all of the tokens are unlocked and can be used for Mass DMing and other purposes. The generator is very fast, generating tokens up to 1,000 / second and works best with datacenter proxies. It uses a variety of factors to achieve this such as anti TLS fingerprinting, solving cloudflare challenges to bypass hCaptcha's anti bot detection, and more!
+
 
 You may create up to **1,000** tokens per minute with this generator.
 
