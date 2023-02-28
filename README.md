@@ -9,7 +9,7 @@ The generator generates unlocked Discord tokens, and has an optional option to e
 <br><br>
 The generator has a built-in **hCaptcha AI solver** meaning you won't have to pay for any third-parties to solve captchas for you. It has a feature to detect new captchas and has a 99.9% solving rate. It also has an undetectable motion data which contributes to the unlock rate.
 
-> **Note:** I have already created over a million tokens with this generator. As I have no more use for it, I've decided to give it back to the community since I quit selling Discord tokens. 
+> **Note** I have already created over a million tokens with this generator. As I have no more use for it, I've decided to give it back to the community since I quit selling Discord tokens. 
 
 
 You may create up to **1,000** tokens per minute with this generator.
