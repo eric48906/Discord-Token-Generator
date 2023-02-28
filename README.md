@@ -22,6 +22,15 @@ The generator has a built-in **hCaptcha AI solver** meaning you won't have to pa
 
 > **Note** I have already created over a million tokens with this generator. As I have no more use for it, I've decided to give it back to the community since I quit selling Discord tokens. 
 
+`✨ QoA features:`
+<br><br>
+- [x] Check if an account has the **spammer** or **locked** flag upon registering
+- [x] 3 different types for token formatting when saving registered accounts
+- [x] Generates unlocked tokens w/ datacenter proxies (very cheap / **free**)
+- [x] Automatically set a PFP, banner, apply for hypesquad and **connect to websocket**
+- [x] Various methods to make 99.9% tokens unlocked
+- [ ] Create GUI
+
 ```dif
 Time Elapsed: 100s | Tokens Generated: 5,290 | Threads: 1,300 | Websockets Open: 54 | Unlock Rate: 99.682%
 ```
