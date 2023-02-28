@@ -11,7 +11,11 @@ The generator has a built-in **hCaptcha AI solver** meaning you won't have to pa
 
 > **Note** I have already created over a million tokens with this generator. As I have no more use for it, I've decided to give it back to the community since I quit selling Discord tokens. 
 
+`⛔️ Release:`
+<br><br>
+I have plans to **release** this generator once the repository hits the following statistics:
+- 170 stars
+- 30 forks
+- 30 followers on my account
 
-You may create up to **1,000** tokens per minute with this generator.
-
-❗️ **I will be releasing it once this repo hits 160 stars & 30 forks!**
+> **Warning** The generator will be released once the following statistics have been met.
