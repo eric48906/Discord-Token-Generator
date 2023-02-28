@@ -1,7 +1,7 @@
 # ✨ Discord Token Generator ✨
 *The first **FREE Discord Token Generator** w/ **hCaptcha AI Solver** has just been released! (Unlocked Tokens)*
 
-<img src="https://user-images.githubusercontent.com/64490610/221732452-eb00d4aa-3ea3-4537-a710-8e9b5740cc24.png" height="30" width="35" /> **[Join the Discord to receive early access!](https://discord.gg/v5CwpPq3PS)**
+<img src="https://user-images.githubusercontent.com/64490610/221732452-eb00d4aa-3ea3-4537-a710-8e9b5740cc24.png" height="25" width="35" /> **[Join the Discord to receive early access!](https://discord.gg/v5CwpPq3PS)**
 
 `⛔️ Release:`
 <br><br>
