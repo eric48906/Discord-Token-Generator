@@ -35,7 +35,8 @@ The generator has a built-in **hCaptcha AI solver** meaning you won't have to pa
 - [ ] Integrate GOLang API for realistic usernames, bios & more
 - [ ] Create GUI
 <div id="preview"></div>
-
+<img width="758" alt="image" src="https://user-images.githubusercontent.com/64490610/222548345-77f41e8a-bc46-4a62-80b5-9e237e07f772.png">
+<br />
 
 ```dif
 Time Elapsed: 100s | Tokens Generated: 5,290 | Threads: 1,300 | Websockets Open: 54 | Unlock Rate: 99.682%
