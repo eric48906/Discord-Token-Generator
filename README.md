@@ -34,9 +34,12 @@ The generator has a built-in **hCaptcha AI solver** meaning you won't have to pa
 - [x] Various methods to make 99.9% tokens unlocked
 - [ ] Integrate GOLang API for realistic usernames, bios & more
 - [ ] Create GUI
-<br id="preview" />
+<div id="preview"></div>
 https://user-images.githubusercontent.com/64490610/222546634-81a09e39-4274-40af-9a86-70407959d2e9.mp4
 
+
+<br>
+<br>
 
 
 ```dif
