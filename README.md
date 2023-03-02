@@ -35,11 +35,6 @@ The generator has a built-in **hCaptcha AI solver** meaning you won't have to pa
 - [ ] Integrate GOLang API for realistic usernames, bios & more
 - [ ] Create GUI
 <div id="preview"></div>
-https://user-images.githubusercontent.com/64490610/222546634-81a09e39-4274-40af-9a86-70407959d2e9.mp4
-
-
-<br>
-<br>
 
 
 ```dif
