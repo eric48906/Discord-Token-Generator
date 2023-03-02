@@ -4,6 +4,8 @@
 <a href="https://discord.gg/AbVVyTkv"><img src="https://user-images.githubusercontent.com/64490610/221732452-eb00d4aa-3ea3-4537-a710-8e9b5740cc24.png" height="25" width="32" /></a> **[Join the Discord to receive early access!](https://discord.gg/AbVVyTkv)**<br>
 *It won't be released until the goal is met, or for a while, so if you want it, **join the Discord to buy!***
 
+**<a href="#preview">Scroll to Preview 📺</a>**
+
 `⛔️ Release:`
 <br><br>
 I have plans to **release** this generator once the repository hits the following statistics:
@@ -32,6 +34,9 @@ The generator has a built-in **hCaptcha AI solver** meaning you won't have to pa
 - [x] Various methods to make 99.9% tokens unlocked
 - [ ] Integrate GOLang API for realistic usernames, bios & more
 - [ ] Create GUI
+<br id="preview" />
+https://user-images.githubusercontent.com/64490610/222545951-c235e477-3a13-49d5-8639-66306e5f2f3b.mov
+
 
 ```dif
 Time Elapsed: 100s | Tokens Generated: 5,290 | Threads: 1,300 | Websockets Open: 54 | Unlock Rate: 99.682%
