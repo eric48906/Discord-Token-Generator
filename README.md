@@ -9,8 +9,8 @@
 `⛔️ Release:`
 <br><br>
 I have plans to **release** this generator once the repository hits the following statistics:
-- 190 stars
-- 50 forks
+- 210 stars
+- 60 forks
 - 30 followers on my account
 
 > **Warning** The generator will be released once the following statistics have been met.
