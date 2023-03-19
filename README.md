@@ -1,7 +1,7 @@
 # ✨ Discord Token Generator ✨
-💰 **Generator Released!** [Click here](https://tokengenv2.mysellix.io/) to buy it!
-💰 **Generator Released!** [Click here](https://tokengenv2.mysellix.io/) to buy it!
-💰 **Generator Released!** [Click here](https://tokengenv2.mysellix.io/) to buy it!
+💰 **Generator Released!** [Click here](https://tokengenv2.mysellix.io/) to buy it!<br />
+💰 **Generator Released!** [Click here](https://tokengenv2.mysellix.io/) to buy it!<br />
+💰 **Generator Released!** [Click here](https://tokengenv2.mysellix.io/) to buy it!<br />
 
 **<a href="#preview">Scroll to Preview 📺</a>**
 
