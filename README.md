@@ -1,8 +1,7 @@
 # ✨ Discord Token Generator ✨
 *The first **FREE Discord Token Generator** w/ **hCaptcha AI Solver** has just been released! (Unlocked Tokens)*
 
-<a href="https://discord.gg/ebrHx3Rsaf"><img src="https://user-images.githubusercontent.com/64490610/221732452-eb00d4aa-3ea3-4537-a710-8e9b5740cc24.png" height="25" width="32" /></a> **[Join the Discord to receive early access!](https://discord.gg/ebrHx3Rsaf)**<br>
-*It won't be released until the goal is met, or for a while, so if you want it, **join the Discord to buy!***
+💰 **Generator Released!** (Click here)[https://tokengenv2.mysellix.io/] to buy it!
 
 **<a href="#preview">Scroll to Preview 📺</a>**
 
