@@ -1,4 +1,6 @@
 # ✨ Discord Token Generator ✨
+
+Because this isnt released publicly, buy it here:
 💰 **Generator Released!** [Click here](https://tokengenv2.mysellix.io/) to buy it!<br />
 💰 **Generator Released!** [Click here](https://tokengenv2.mysellix.io/) to buy it!<br />
 💰 **Generator Released!** [Click here](https://tokengenv2.mysellix.io/) to buy it!<br />
@@ -7,12 +9,12 @@
 
 `⛔️ Release:`
 <br><br>
-I have plans to **release** this generator once the repository hits the following statistics:
+I have plans to not **release** this generator once the repository hits the following statistics:
 - 210 stars
 - 60 forks
 - 30 followers on my account
 
-> **Warning** The generator will be released once the following statistics have been met.
+> **Warning** The generator will not be released once the following statistics have been met.
 
 `📝 How it works:`
 <br><br>
