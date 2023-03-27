@@ -7,6 +7,7 @@ Because this isnt released publicly, buy it here:
 
 **<a href="#preview">Scroll to Preview 📺</a>**
 
+
 `⛔️ Release:`
 <br><br>
 I have plans to not **release** this generator once the repository hits the following statistics:
@@ -15,6 +16,7 @@ I have plans to not **release** this generator once the repository hits the foll
 - 30 followers on my account
 
 > **Warning** The generator will not be released once the following statistics have been met.
+
 
 `📝 How it works:`
 <br><br>
@@ -42,3 +44,4 @@ The generator has a built-in **hCaptcha AI solver** meaning you won't have to pa
 ```dif
 Time Elapsed: 100s | Tokens Generated: 5,290 | Threads: 1,300 | Websockets Open: 54 | Unlock Rate: 99.682%
 ```
+ 
