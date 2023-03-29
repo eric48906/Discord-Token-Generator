@@ -31,4 +31,4 @@ The generator has a built-in **hCaptcha AI solver** meaning you won't have to pa
 ```dif
 Time Elapsed: 100s | Tokens Generated: 5,290 | Threads: 1,300 | Websockets Open: 54 | Unlock Rate: 99.682%
 ```
- 
+
